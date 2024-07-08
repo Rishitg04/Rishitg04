@@ -1,8 +1,8 @@
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Rishit Ghosh and I'm studying Computer Science at The University of Maryland, College Park. You can find me on [Linkedin](https://github.com/yourusername/project1)
+My name is Rishit Ghosh and I'm studying Computer Science at The University of Maryland, College Park.
 
 ## Skills
-- 💻 Languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 💻 Languages: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🔧 Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## Projects
