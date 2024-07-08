@@ -3,7 +3,7 @@ My name is Rishit Ghosh and I'm studying Computer Science at The University of M
 <!-- Actual text -->
 You can find me on [![LinkedIn][2.2]][2].
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://banner2.cleanpng.com/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/rishit-ghosh-077a24162/
 
