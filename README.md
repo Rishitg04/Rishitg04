@@ -1,9 +1,9 @@
 # Hi there, I'm Rishit 👋
 
 ![Header Image](https://your-image-url)
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## About Me
-- 🎓 I’m a [Your Role] at [Your Company/School].
+- 🎓 I’m studying Computer Science at The University of Maryland, College Park.
 - 🌱 I’m currently learning [Technology/Language].
 - 👯 I’m looking to collaborate on [Projects/Areas].
 - 💬 Ask me about [Topics/Skills].
