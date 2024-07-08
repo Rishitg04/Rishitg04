@@ -2,7 +2,8 @@
 My name is Rishit Ghosh and I'm studying Computer Science at The University of Maryland, College Park.
 
 ## Skills
-- 💻 Languages: ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 💻 Languages: ![Java](https://img.shields.io/badge/-Java-333333?style=flat) ![Python]((https://img.shields.io/badge/-Python-333333?style=flat
+)
 - 🔧 Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## Projects
