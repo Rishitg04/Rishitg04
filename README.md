@@ -1,4 +1,6 @@
-# Hi there, <img src="https://github.com/Rishitg04/Rishitg04/blob/main/Github%20Header.gif">
+# <img src="https://github.com/Rishitg04/Rishitg04/blob/main/Github%20Header.gif">
+
+## About me
 My name is Rishit Ghosh and I'm a student at The University of Maryland, College Park who's passionate about computer science.
 
 ## Skills
