@@ -1,7 +1,7 @@
 # <img src="https://github.com/Rishitg04/Rishitg04/blob/main/Github%20Header.gif">
 
 ## About me
-My name is Rishit Ghosh and I'm a student at The University of Maryland, College Park who's passionate about computer science.
+- 🎓 I'm a student at The University of Maryland, College Park who's passionate about computer science.
 
 ## Skills
 - 💻 Languages: ![Java](https://img.shields.io/badge/-Java-333333?style=flat) ![Python](https://img.shields.io/badge/-Python-333333?style=flat)
