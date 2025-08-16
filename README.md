@@ -1,7 +1,13 @@
 # <img src="https://github.com/Rishitg04/Rishitg04/blob/main/Github%20Header.gif">
 
-## About me
-- 🎓 I'm a student at The University of Maryland, College Park who's passionate about computer science.
+## About Me
+- 🎓 I'm a student at the University of Maryland, College Park (Class of 2027) pursuing a **B.S. in Computer Science** with a **Minor in Computational Finance**.
+- 📚 I love learning more about computer science and its related fields, from systems programming to machine learning.
+
+## Skills
+- 💻 **Languages:** ![Java](https://img.shields.io/badge/-Java-333333?style=flat) ![Python](https://img.shields.io/badge/-Python-333333?style=flat) ![C](https://img.shields.io/badge/-C-333333?style=flat) ![OCaml](https://img.shields.io/badge/-OCaml-333333?style=flat) ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+- ⚙️ **Frameworks & Tools:** ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn) ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
 
 ## Skills
 - 💻 Languages: ![Java](https://img.shields.io/badge/-Java-333333?style=flat) ![Python](https://img.shields.io/badge/-Python-333333?style=flat)
